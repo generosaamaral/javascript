@@ -1,0 +1,12 @@
+body{
+    background: url("bg-xadrez.jfif");
+    background-blend-mode: multiply;
+}
+
+.comer{
+    height: 100px;
+    text-align: center;
+    margin:auto;
+    background-color: white;
+    border: 1px solid black;
+}
